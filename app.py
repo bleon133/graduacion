@@ -10,7 +10,7 @@ st.set_page_config(page_title="Predictor de Éxito Académico", page_icon="🎓"
 
 # Título
 st.title("🎓 Predictor de Éxito Académico")
-st.write("**Autor:** Brayan León")
+st.write("**Autor:** Brayan Steven León")
 
 # Imagen debajo del autor
 st.image(
@@ -52,3 +52,4 @@ st.markdown("""
 ---
 © 2025 UNAB
 """)
+
